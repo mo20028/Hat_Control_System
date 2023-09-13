@@ -8,7 +8,7 @@ This project is a Temperature Control System implemented using the Atmega32 micr
 
 - [Project Description](#project-description)
 - [Components Used](#components-used)
-- [Software Drivers].(#software-drivers).
+- [Components Used](#components-used)
 - [System Architecture](#system-architecture)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
