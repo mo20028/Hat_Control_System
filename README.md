@@ -11,8 +11,7 @@ This project is a Temperature Control System implemented using the Atmega32 micr
 - [System Architecture](#system-architecture)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Description
 
@@ -67,16 +66,7 @@ To set up and run the Temperature Control System on your own hardware, follow th
 
 Once the system is set up and powered on, it will automatically start monitoring and controlling temperature. MCU1 communicates with MCU2 to ensure safe temperature control. Use the provided push button and LEDs for user interactions.
 
-## Contributing
 
-Contributions to this project are welcome! If you have suggestions for improvements, bug fixes, or additional features, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Note:** Detailed code comments, pin configurations, and usage instructions can be found in the source code files.
-
-For any questions or inquiries, feel free to contact [Your Name] at [Your Email Address].
