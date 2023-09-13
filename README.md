@@ -8,6 +8,7 @@ This project is a Temperature Control System implemented using the Atmega32 micr
 
 - [Project Description](#project-description)
 - [Components Used](#components-used)
+- [Software Drivers].(#software-drivers).
 - [System Architecture](#system-architecture)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -41,6 +42,9 @@ The Temperature Control System consists of two main components:
 - Servo Motor for specific actions
 - ADC for reading temperature-related data
 - UART communication for command exchange between MCU1 and MCU2
+
+
+## Software Drivers
 
 ## System Architecture
 
