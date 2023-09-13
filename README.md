@@ -45,7 +45,18 @@ The Temperature Control System consists of two main components:
 
 
 ## Software Drivers
-
+- Port_Driver      
+- Dio_Driver       
+- GIE_Driver       
+- Exti_Driver      
+- ADC_Driver       
+- Timer_Driver     
+- UASRT_Driver     
+- internal_EEPROM  
+- Watch_Dog
+- Servo_Driver
+- DC_Motor_Driver     
+                   
 ## System Architecture
 
 The Temperature Control System operates in different states based on temperature readings and user input:
